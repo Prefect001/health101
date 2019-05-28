@@ -1,4 +1,1 @@
-node_modules/**/*
-.expo/*
-npm-debug.*
-.DS_Store
+node_modules/
